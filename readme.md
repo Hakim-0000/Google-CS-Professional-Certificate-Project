@@ -1,0 +1,2 @@
+# About
+This repository comprises the projects required for me to progress through the [Google Cybersecurity Professional Certificate](https://www.coursera.org/professional-certificates/google-cybersecurity) on [Coursera](https://www.coursera.org/professional-certificates/google-cybersecurity).
